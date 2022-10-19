@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-saga/static/css/main.1d417920.css",
+    "main.js": "/movie-saga/static/js/main.2a488c16.js",
+    "index.html": "/movie-saga/index.html",
+    "static/media/search.svg": "/movie-saga/static/media/search.7753a662f2671ad786fa71f145e5a3b2.svg",
+    "main.1d417920.css.map": "/movie-saga/static/css/main.1d417920.css.map",
+    "main.2a488c16.js.map": "/movie-saga/static/js/main.2a488c16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d417920.css",
+    "static/js/main.2a488c16.js"
+  ]
+}
